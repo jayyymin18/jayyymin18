@@ -6,7 +6,7 @@ Hi, I am Jaimin Shah, student of Computer Science Engineering currently in the f
 <br>
 <h2>My Experience✨</h2>
 
-- Student - Code in Place (CS106A) ([Stanford University](https://codeinplace.stanford.edu)) - CS106A is one of most popular courses at Stanford University ([Final Project](https://codeinplace.stanford.edu/2021/showcase/200))
+- Student - Code in Place (CS106A) ([Stanford University](https://codeinplace.stanford.edu)) - CS106A is one of most popular courses at Stanford University ([Final Project](https://codeinplace.stanford.edu/2021/showcase/216))
 
 
 <br>
