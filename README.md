@@ -2,12 +2,12 @@
 Hi, I am Jaimin Shah, student of Computer Science Engineering currently in the freshman year. I’m an Open-Source enthusiast. I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 <br>
 <br>
-⚡ Fun fact: ... you can also find me on google, just type "jayyymin18"
+⚡ Fun fact: You can also find me on google, just type "jayyymin18"
 <br>
 <h2>My Experience✨</h2>
 
 - Student - Code in Place (CS106A) ([Stanford University](https://codeinplace.stanford.edu)) - CS106A is one of most popular courses at Stanford University ([Final Project](https://codeinplace.stanford.edu/2021/showcase/216))
-
+- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) (Alpha) - Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future. ([My Profile](https://studentambassadors.microsoft.com/en-US/profile/112203))
 
 <br>
 <h2>Languages and Tools ⚙</h2>
