@@ -8,6 +8,7 @@ Hi, I am Jaimin Shah, student of Computer Science Engineering currently in the f
 
 - Student - Code in Place (CS106A) ([Stanford University](https://codeinplace.stanford.edu)) - CS106A is one of most popular courses at Stanford University ([Final Project](https://codeinplace.stanford.edu/2021/showcase/216))
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) (Alpha) - Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future. ([My Profile](https://studentambassadors.microsoft.com/en-US/profile/112203))
+- [Campus Mantri Geeks for Geeks](https://www.geeksforgeeks.org/campus-ambassador-know-more/) - The Official Campus Ambassador Programme by GeeksforGeeks ([My Profile](https://auth.geeksforgeeks.org/user/jayyymin18/practice/))
 
 <br>
 <h2>Languages and Tools ⚙</h2>
