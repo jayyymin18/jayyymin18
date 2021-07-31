@@ -1,5 +1,5 @@
 <h2>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-Hi, I am Jaimin Shah, student of Computer Science Engineering currently in the freshman year. I’m an Open-Source enthusiast. I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things.
+Hi, I am Jaimin Shah, student of Computer Science Engineering currently in the second year. I’m an Open-Source enthusiast. I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 <br>
 <br>
 ⚡ Fun fact: You can also find me on google, just type "jayyymin18"
