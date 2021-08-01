@@ -10,6 +10,8 @@ Hi, I am Jaimin Shah, student of Computer Science Engineering currently in the s
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) (Alpha) - Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future. ([My Profile](https://studentambassadors.microsoft.com/en-US/profile/112203))
 - [Campus Mantri Geeks for Geeks](https://www.geeksforgeeks.org/campus-ambassador-know-more/) - The Official Campus Ambassador Programme by GeeksforGeeks ([My Profile](https://auth.geeksforgeeks.org/user/jayyymin18/practice/))
 
+Click here to download [Resume](https://drive.google.com/file/d/1LA31DWmxCLeozwzK2vcjDqhC6ZZrp4bt/view?usp=sharing)
+
 <br>
 <h2>Languages and Tools ⚙</h2>
 <a>
