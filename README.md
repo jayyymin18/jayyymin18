@@ -24,6 +24,9 @@ Click here to download [Resume](https://drive.google.com/file/d/1LA31DWmxCLeozwz
   <img align="left" title="Git" alt="Git Logo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 </a>
 <a> 
+  <img align="left" title="Javascript" img src="https://camo.githubusercontent.com/6b457452bb92078e3c886e97fdede78beb3d05d931cfd516942e91b26c6c283c/68747470733a2f2f63646e2e7261776769742e636f6d2f7a656b652f6a6176617363726970742d79656c6c6f772f6d61737465722f6c6f676f2e737667" alt="Javascipt" width="30px"/> 
+</a>
+<a> 
   <img align="left" title="HTML5" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30px"/>
 </a>
 <a> 
