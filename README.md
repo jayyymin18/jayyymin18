@@ -10,7 +10,7 @@ Hi, I am Jaimin Shah, student of Computer Science Engineering currently in the s
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) (Alpha) - Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future. ([My Profile](https://studentambassadors.microsoft.com/en-US/profile/112203))
 - [Campus Mantri Geeks for Geeks](https://www.geeksforgeeks.org/campus-ambassador-know-more/) - The Official Campus Ambassador Programme by GeeksforGeeks ([My Profile](https://auth.geeksforgeeks.org/user/jayyymin18/practice/))
 
-Click here to download [Resume](https://drive.google.com/file/d/1LA31DWmxCLeozwzK2vcjDqhC6ZZrp4bt/view?usp=sharing)
+Click here to download [Resume](https://drive.google.com/file/d/128ds_bfWVzGpGXPO3I4S2CYAhfNzzNrr/view?usp=sharing)
 <h2>Languages and Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="50px"> </h2>
 <a>
   <img align="left" title="Python" alt="Python Logo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
