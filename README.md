@@ -33,7 +33,7 @@ Click here to download [Resume](https://drive.google.com/file/d/1LA31DWmxCLeozwz
 <br>
 
 <br>
-<h2>Connect on Social Media <img src="https://media4.giphy.com/media/3tLfKrc4pLWiTkAAph/giphy.gif?cid=6c09b952f5154cce3ebeac8cbd2a15f3a159d87bc8fe5957&rid=giphy.gif&ct=s" width="50px"> </h2>
+<h2>Connect on Social Media </h2>
 <a href="https://www.linkedin.com/in/jayyymin18/">
   <img align="left" alt="Jaimin's LinkedIN" title="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
